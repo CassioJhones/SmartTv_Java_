@@ -24,8 +24,5 @@ public class Usuario {
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
         System.out.println("--Volume Atual: "+smartTv.volume);
-
-
-
     }
 }
