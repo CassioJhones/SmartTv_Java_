@@ -38,4 +38,6 @@ public class SmartTv {
         canal = novoCanal;
     }
      // ----CONTROLE DE CANAL----CONTROLE DE CANAL----
+
 }
+
