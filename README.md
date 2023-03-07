@@ -1,18 +1,15 @@
-## Getting Started
+# SmartTV_Java_Test
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+>Extensão do VSCode usada para printar o código: `CodeSnap` mantido por <a href="https://github.com/kufii/CodeSnap">Kufii </a>
+>> https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 
-## Folder Structure
+## Classe Usuario.java
+<div style="display:flex; align-items:center; justify-content:top; vertical-align:top;" > 
+  <img src="https://user-images.githubusercontent.com/56178855/223489138-bcc8f0fa-5ce6-4ef3-b016-0eb5a1250b81.png" width="50%" align="center">
+</div>
 
-The workspace contains two folders by default, where:
+## Classe SmartTv.java
+<div style="display:flex; align-items:center; justify-content:top; vertical-align:top;" > 
+  <img src="https://user-images.githubusercontent.com/56178855/223489168-cb1f9e94-8e72-4d2d-9cb8-07341eaf609b.png" width="50%" align="center">
+</div>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
